@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.lang.*;
 
 
-public class myTestCase1 {
+public class TestSuite1 {
 	
 	public static WebDriver browser;
 

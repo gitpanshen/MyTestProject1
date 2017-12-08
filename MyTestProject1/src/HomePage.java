@@ -12,7 +12,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class HomePage {
 
-	WebDriver driver = myTestCase1.browser;
+	WebDriver driver = TestSuite1.browser;
 	
 	public HomePage() {
 		
