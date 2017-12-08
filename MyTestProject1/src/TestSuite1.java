@@ -18,7 +18,7 @@ public class TestSuite1 {
 	@Before
 	public void beforeEachTest() {
 		        		
-		System.setProperty("webdriver.chrome.driver", "E:\\Selenium\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\pansh\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		
 		browser = new ChromeDriver();
 		
